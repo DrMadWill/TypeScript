@@ -23,7 +23,7 @@ class Bus implements Vehicle {
     }
 }
 
-
+ //
 let taxi_1: Taxi = new Taxi();
 
 taxi_1.currentLocation = {x:2,y:2};

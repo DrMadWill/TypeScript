@@ -4,7 +4,7 @@ function getAverage(a:number,b:number,c?:number):number {
 
 // console.log(getAverage(1,2,3) , getAverage(3,3))
 
-
+ //
 const getAverageArr = (...a:number[]):number=>{
     let total = 0;
     a.forEach(element => {

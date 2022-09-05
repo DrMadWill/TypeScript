@@ -15,7 +15,7 @@ class Taxi implements Vehicle {
     travelTo(point:Point):void{
         console.log(`taski go X: ${point.x} to Y: ${point.y}`)
     }
-    
+     //
 }
 
 class Bus implements Vehicle {

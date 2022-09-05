@@ -7,7 +7,7 @@ interface Passanger{
     name: string;
     phone:string;
 }
-
+ //
 
 interface Vehicle{ // Sema kimi
     currentLocation:Point;

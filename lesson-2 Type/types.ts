@@ -31,3 +31,4 @@ let dollar = Currency.Dollar
 let aze = Currency.Aze
 
 console.log(usd,dollar,aze)
+ //
